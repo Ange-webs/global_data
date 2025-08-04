@@ -101,3 +101,6 @@ here are some screenshots of the procedures
 ![images](7.png)
 ![images](8.png)
 ![images](9.png)
+##Power bi
+![images](/images/power.jpeg)
+
